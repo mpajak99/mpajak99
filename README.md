@@ -1,11 +1,10 @@
-## <samp>Hello World! I'm Michael</samp>
+## <samp>Hello World!</samp> I'm Michael
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/m-pajak/)](https://www.linkedin.com/in/m-pajak/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:michpajak99@gmail.com)](mailto:michpajak99@gmail.com)
 
-### Passionate learner with desire to acquire new knowledge, answers, and skills to continuously improve your workflow. with technology and creating different solutions.
-- 🌐 I'm currently working on realising Web Development Projects
-- 👨‍💻 I’m currently learning React.js and Spring Boot
-- 👯 I’m looking to collaborate on open source
+### Passionate learner with desire to acquire new knowledge, answers, and skills to continuously improve the workflow. 
+- 🌐 My goal is to be proficient enough in coding to become a Front-end web development
+- 👨‍💻 Currently I'm getting to know React.js
 - 🧘‍♂️ Yoga lover
 - 🥼 Fun fact: I've got a Bachelor's Degree in Chemistry
 

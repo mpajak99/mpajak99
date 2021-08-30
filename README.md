@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:michpajak99@gmail.com)](mailto:michpajak99@gmail.com)
 
 ### Passionate learner with desire to acquire new knowledge, answers, and skills to continuously improve the workflow. 
-- 🌐 My goal is to be proficient enough in coding to become a Front-end web development
+- 🌐 My goal is to be proficient enough in coding to become a Full Stack Web Developer
 - 👨‍💻 Currently I'm getting to know React.js
 - 🧘‍♂️ Yoga lover
 - 🥼 Fun fact: I've got a Bachelor's Degree in Chemistry

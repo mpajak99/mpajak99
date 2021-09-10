@@ -4,7 +4,7 @@
 
 ### Passionate learner with desire to acquire new knowledge, answers, and skills to continuously improve the workflow. 
 - 🌐 My goal is to be proficient enough in coding to become a Full Stack Web Developer
-- 👨‍💻 Currently I'm getting to know React.js
+- 👨‍💻 Currently I'm improving my knowledge of Spring framework and getting to know JavaScript/React.js
 - 🧘‍♂️ Yoga lover
 - 🥼 Fun fact: I've got a Bachelor's Degree in Chemistry
 
